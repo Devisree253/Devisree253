@@ -1,0 +1,5 @@
+std={16:['Likitha','female','mpcs','pass'],4:['shiny','male','mpcs','pass'],58:['Devisree','female','mpcs','fail']}
+x=int(input("enter the stdno:"))
+print('name of the student:',std[x][0])
+print('result of the student:',std[x][3])
+print('gender of the student:',std[x][2])
