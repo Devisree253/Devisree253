@@ -1,0 +1,8 @@
+l=[64,225,49,81,100]
+n=int(input())
+for i in l:
+    if n*n==i:
+        if i<=1000:
+            print("yes",end=" ")
+        else:
+            print("no",end=" ")
