@@ -1,0 +1,3 @@
+d={1:['sravani','mpcs','female'],2:['devisree','mecs','female']}
+d.clear()
+print(d)
